@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TobyMosque.Sample.Pets.Api.props" />
+</Project>

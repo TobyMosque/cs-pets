@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TobyMosque.Sample.Pets.Api.props" />
+</Project>
